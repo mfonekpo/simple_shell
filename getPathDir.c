@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 
 /**
  * getPath - get the paths to the command executables
