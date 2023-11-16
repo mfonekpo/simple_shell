@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include "ss_shell.h"
+
 /**
  * main - Entry point
  *

@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include "ss_shell.h"
 /**
  * prompt - print prompt to screen
  *
