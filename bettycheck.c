@@ -1,5 +1,4 @@
 #include <stdio.h>
-#ifndef SHELL_COMPILE
 /**
  * main - Entry point
  *
@@ -11,4 +10,3 @@ int main(void)
 printf("Hello, Betty!\n");
 return (0);
 }
-#endif
